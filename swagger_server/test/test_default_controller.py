@@ -6,6 +6,7 @@ from flask import json
 
 from swagger_server.models.student import Student  # noqa: E501
 from swagger_server.test import BaseTestCase
+import names
 
 
 class TestDefaultController(BaseTestCase):
@@ -16,8 +17,8 @@ class TestDefaultController(BaseTestCase):
         Add a new student
         """
         body = Student()
-        body.first_name = 'Bender'
-        body.last_name = 'Rodriguez'
+        body.first_name = names.get_first_name()
+        body.last_name = names.get_last_name()
         body.grades = {'math': 8, 'history': 9}
         response = self.client.open(
             '/service-api/student',
@@ -33,8 +34,8 @@ class TestDefaultController(BaseTestCase):
         """Test case for delete_student
         """
         body = Student()
-        body.first_name = 'Bender'
-        body.last_name = 'Rodriguez'
+        body.first_name = names.get_first_name()
+        body.last_name = names.get_last_name()
         body.grades = {'math': 8, 'history': 9}
         response = self.client.open(
             '/service-api/student',
@@ -54,15 +55,14 @@ class TestDefaultController(BaseTestCase):
         # self.assert404(response,
         #                'Response body is : ' + response.data.decode('utf-8'))
 
-
     def test_get_student_by_id(self):
         """Test case for get_student_by_id
 
         Find student by ID
         """
         body = Student()
-        body.first_name = 'Bender'
-        body.last_name = 'Rodriguez'
+        body.first_name = names.get_first_name()
+        body.last_name = names.get_last_name()
         body.grades = {'math': 8, 'history': 9}
         response = self.client.open(
             '/service-api/student',
@@ -73,15 +73,13 @@ class TestDefaultController(BaseTestCase):
 
         query_string = [('math', 9)]
         response = self.client.open(
-            '/service-api/student/{student_id}'.format(student_id=789),
+            '/service-api/student/{student_id}'.format(student_id=student_id),
             method='GET',
             query_string=query_string)
         self.assert200(response,
                        'Response body is : ' + response.data.decode('utf-8'))
         self.assertTrue(response.is_json)
         self.assertIsInstance(response.json, dict)
-
-
 
 
 if __name__ == '__main__':
