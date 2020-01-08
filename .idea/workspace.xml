@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b03d20e5-c932-4f78-a971-299b74dc6011" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/models/base_model_.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/models/base_model_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/models/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/models/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/service/student_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/service/student_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/swagger/swagger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/swagger/swagger.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/test/test_default_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/test/test_default_controller.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W4GoozakGWNyh9Y2EWaSzWU7Dq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.__main__">
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week2LabPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swagger_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swagger_server/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_default_controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week2LabPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swagger_server/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swagger_server/test/test_default_controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.test_default_controller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03d20e5-c932-4f78-a971-299b74dc6011" name="Default Changelist" comment="" />
+      <created>1578401630138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578401630138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1043" y="437" width="530" height="598" key="FileChooserDialogImpl" timestamp="1578489076273">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="1043" y="437" width="530" height="598" key="FileChooserDialogImpl/67.34.2493.1406@67.34.2493.1406" timestamp="1578489076273" />
+    <state width="2465" height="415" key="GridCell.Tab.0.bottom" timestamp="1578522276947">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809514" />
+    <state width="2465" height="415" key="GridCell.Tab.0.bottom/67.34.2493.1406@67.34.2493.1406" timestamp="1578522276947" />
+    <state width="2465" height="415" key="GridCell.Tab.0.center" timestamp="1578522276947">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809514" />
+    <state width="2465" height="415" key="GridCell.Tab.0.center/67.34.2493.1406@67.34.2493.1406" timestamp="1578522276947" />
+    <state width="2465" height="415" key="GridCell.Tab.0.left" timestamp="1578522276947">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809514" />
+    <state width="2465" height="415" key="GridCell.Tab.0.left/67.34.2493.1406@67.34.2493.1406" timestamp="1578522276947" />
+    <state width="2465" height="415" key="GridCell.Tab.0.right" timestamp="1578522276947">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809514" />
+    <state width="2465" height="415" key="GridCell.Tab.0.right/67.34.2493.1406@67.34.2493.1406" timestamp="1578522276947" />
+    <state width="2465" height="384" key="GridCell.Tab.1.bottom" timestamp="1578520469131">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.1.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809515" />
+    <state width="2465" height="384" key="GridCell.Tab.1.bottom/67.34.2493.1406@67.34.2493.1406" timestamp="1578520469131" />
+    <state width="2465" height="384" key="GridCell.Tab.1.center" timestamp="1578520469130">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.1.center/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809515" />
+    <state width="2465" height="384" key="GridCell.Tab.1.center/67.34.2493.1406@67.34.2493.1406" timestamp="1578520469130" />
+    <state width="2465" height="384" key="GridCell.Tab.1.left" timestamp="1578520469130">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.1.left/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809514" />
+    <state width="2465" height="384" key="GridCell.Tab.1.left/67.34.2493.1406@67.34.2493.1406" timestamp="1578520469130" />
+    <state width="2465" height="384" key="GridCell.Tab.1.right" timestamp="1578520469131">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="1825" height="253" key="GridCell.Tab.1.right/67.34.1853.1046@67.34.1853.1046" timestamp="1578402809515" />
+    <state width="2465" height="384" key="GridCell.Tab.1.right/67.34.2493.1406@67.34.2493.1406" timestamp="1578520469131" />
+    <state x="460" y="127" key="SettingsEditor" timestamp="1578522272462">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="359" y="103" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1578402726257" />
+    <state x="460" y="127" key="SettingsEditor/67.34.2493.1406@67.34.2493.1406" timestamp="1578522272462" />
+    <state x="748" y="452" key="com.intellij.ide.util.TipDialog" timestamp="1578522430968">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="573" y="345" key="com.intellij.ide.util.TipDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1578401791419" />
+    <state x="748" y="452" key="com.intellij.ide.util.TipDialog/67.34.2493.1406@67.34.2493.1406" timestamp="1578522430968" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/swagger_server/service/student_service.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
