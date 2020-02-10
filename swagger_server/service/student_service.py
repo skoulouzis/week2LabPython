@@ -35,9 +35,6 @@ def get_student_by_id(student_id, subject):
     if not student:
         return student
     student = Student.from_dict(student)
-
-    # for student in student_db.all():
-    #     student = Student.from_dict(student)
     if not subject:
         return student
 

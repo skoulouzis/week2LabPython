@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2edf294-5941-4c2e-9be1-6e550471035d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.dockerignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/student_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/student_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/postman_collection.json" afterDir="false" />
-    </list>
+    <list default="true" id="d2edf294-5941-4c2e-9be1-6e550471035d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="ProjectId" id="1W4GlylH2O0FIl4olna98NYw9Zc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,34 +16,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="RunManager">
-    <configuration name="test_default_controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swagger_server" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_default_controller.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.test_default_controller" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -81,25 +43,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1581330981069">
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1578401628724">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1581330981069" />
-    <state width="1825" height="263" key="GridCell.Tab.0.bottom" timestamp="1581330982446">
-      <screen x="67" y="34" width="1853" height="1046" />
-    </state>
-    <state width="1825" height="263" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1581330982446" />
-    <state width="1825" height="263" key="GridCell.Tab.0.center" timestamp="1581330982445">
-      <screen x="67" y="34" width="1853" height="1046" />
-    </state>
-    <state width="1825" height="263" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1581330982445" />
-    <state width="1825" height="263" key="GridCell.Tab.0.left" timestamp="1581330982445">
-      <screen x="67" y="34" width="1853" height="1046" />
-    </state>
-    <state width="1825" height="263" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1581330982445" />
-    <state width="1825" height="263" key="GridCell.Tab.0.right" timestamp="1581330982446">
-      <screen x="67" y="34" width="1853" height="1046" />
-    </state>
-    <state width="1825" height="263" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1581330982446" />
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1578401628724" />
   </component>
 </project>
